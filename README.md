@@ -25,7 +25,7 @@ https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/outages_data.csv
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/regions_data.csv
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/Azure%20SQL%20.png
-33 DATA model
+## DATA model
 The following diagram represents the data model used in this project.
 
 ![Data Model](Data_Model.png)
@@ -33,6 +33,9 @@ The following diagram represents the data model used in this project.
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/BronzeToSilver.ipynb
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/SilvertoGold.ipynb
 https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/Meta_Deta_Table.ipynb
+
+## link for PPT -
+https://github.com/Rajdeepkaurbhele/Energy_Data_Syanpse_Analytics_Project-/blob/main/Energy%20Data%20Analysis%20and%20Reporting.pptx
 
 
 
